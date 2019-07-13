@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../INotes">
+      <sourceFolder url="file://$MODULE_DIR$/../INotes/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/../INotes/app" isTestSource="false" packagePrefix="App\" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/beyondcode/laravel-dump-server" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/dnoegel/php-xdg-base-dir" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/erusev/parsedown" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/fideloper/proxy" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/fzaninotto/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/jakub-onderka/php-console-color" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/jakub-onderka/php-console-highlighter" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/nunomaduro/collision" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/opis/closure" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/phpspec/prophecy" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/phpunit/php-token-stream" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/symfony/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/symfony/polyfill-iconv" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/../INotes/vendor/webmozart/assert" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
